@@ -3,11 +3,11 @@ the girl vault
 Pinterest-style link board for things you want to buy later. No account. No friction. Just paste.
 
 ##
-Live → tanvi1505.github.io/girl-vault
+[Live →](https://tanvi1505.github.io/girl-vault)
 ##
 
 The problem
-You're scrolling. You find a dress you love. You're not buying it right now — maybe you're waiting for payday, maybe you just want to think about it. So what do you do?
+You're scrolling. You find a bag you love. You're not buying it right now, maybe you're waiting for payday, maybe you just want to think about it. So what do you do? 
 
 Add to cart? You either impulse buy it or forget it's there.
 Pinterest? It saves the aesthetic, not the actual link to purchase.
