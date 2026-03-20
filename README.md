@@ -3,7 +3,7 @@ the girl vault
 Pinterest-style link board for things you want to buy later. No account. No friction. Just paste.
 
 ##
-[Live →](https://tanvi1505.github.io/girl-vault)
+[Live website](https://tanvi1505.github.io/girl-vault)
 ##
 
 The problem
